@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using ToDoApi.Dao;
 using ToDoApi.Models;
 
 namespace ToDoApi.Repository

@@ -2,3 +2,5 @@
 .idea/*
 .DS_STORE
 /.vs/ToDoApi/v15/Server/sqlite3
+/bin/Debug
+/obj
